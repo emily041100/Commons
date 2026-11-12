@@ -1,0 +1,5 @@
+{"schema_version":1,"updated_at":"2026-11-12T21:05:00+09:00","base_date":"2026-11-12","currency":"KRW","cash":150000,
+"holdings":[{"code":"005930","name":"삼성전자","qty":3,"avg_price":200000,"price":210000,"cost":600000,"eval":630000,"pnl":30000,"pnl_pct":5.0},
+{"code":"105560","name":"KB금융","qty":2,"avg_price":150000,"price":144000,"cost":300000,"eval":288000,"pnl":-12000,"pnl_pct":-4.0}],
+"totals":{"cost":900000,"eval":918000,"pnl":18000,"pnl_pct":2.0},
+"history":[{"date":"2026-11-05","cost":900000,"eval":880000,"cash":150000},{"date":"2026-11-06","cost":900000,"eval":895000,"cash":150000},{"date":"2026-11-09","cost":900000,"eval":887000,"cash":150000},{"date":"2026-11-10","cost":900000,"eval":902000,"cash":150000},{"date":"2026-11-11","cost":900000,"eval":909000,"cash":150000},{"date":"2026-11-12","cost":900000,"eval":918000,"cash":150000}]}
